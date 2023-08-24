@@ -1,4 +1,4 @@
-= Cloudera Machine Learning - Workshop Student Guide
+= Cloudera CDP Data Lifecycle - Workshop Student Guide
 
 image::https://github.com/DigitalSal/cdp-ds-workshops/raw/main/images/AMERPartnerWSBanner.png[]
 
