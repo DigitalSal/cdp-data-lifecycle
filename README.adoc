@@ -11,7 +11,7 @@ Version : 1.0.0 `24th April 2023` +
 
 == Preface
 
-=== Customer Churn Hands On Lab
+=== Telco Customer Churn Analytics
 
 ==== Objective
 
