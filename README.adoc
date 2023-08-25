@@ -17,13 +17,13 @@ In this exercise, we will get telco data queued in a Kafka topic that contains c
 
 === Telco Customer Churn Analytics
 
-In this exercise we will implement an end-to-end machine learning workflow using Cloudera Machine Learning, including:
+In this exercise we will implement an end-to-end machine learning workflow using CDP data lakehouse and CDP data services, including:
 
 . Data ingest -  Use Cloudera Data Flow(CDF) to ingest data from Kafka topic to Open Data Lakehouse.
-. Data enrichment -  Use Cloudera Data Engineering (CDE) 
-. Model training and experimentation
-. Model serving 
-. Business applications and
+. Data enrichment -  Use Cloudera Data Engineering(CDE) to orchestrate Spark jobs to prepare the data.
+. Data analysis - Use Cloudera Data Warehouse(CDW) to query and analyse data, and use Cloudera Data Visualization(DataViz) to build a dashboard.
+. Model building/serving - Use Cloudera Machine Learning(CML) to build and train an ML model to predict customer churn, then deploy trained model for real-time scoring and prediction.
+. Enrich data visualization -  add real-time model scoring (Churn Score) to dashboard.
 
 ==== Objective
 
