@@ -12,6 +12,11 @@ Version : 1.0.0 `24th April 2023` +
 == Introduction
 The purpose of this repository is to enable the easy and quick setup of the workshop. Cloudera Data Platform (CDP) has been built from the ground up to support hybrid, multi-cloud data management in support of a Data Fabric architecture. This workshop introduces CDP, with a focus on the data management capabilities that enable the Data Fabric and Data Lakehouse.
 
+- Data ingestion and preparation — provided by Cloudera Data Flow (CDF) and Cloudera Data Engineering (CDE).
+- Global data access and persistence—​provided by Cloudera Data Warehouse (CDW).
+- Data visualization with CDP Data Visualization.
+- Model development and serving with Cloudera Machine Learning(CML)
+
 == Overview
 In this exercise, we will get telco data queued in a Kafka topic that contains customer information, that we'll load into our Data Lakehouse and use it to determine if a customer is likely to churn.
 
@@ -23,18 +28,7 @@ In this exercise we will implement an end-to-end machine learning workflow using
 . Data enrichment -  Use Cloudera Data Engineering(CDE) to orchestrate Spark jobs to prepare the data.
 . Data analysis - Use Cloudera Data Warehouse(CDW) to query and analyse data, and use Cloudera Data Visualization(DataViz) to build a dashboard.
 . Model building/serving - Use Cloudera Machine Learning(CML) to build and train an ML model to predict customer churn, then deploy trained model for real-time scoring and prediction.
-. Enrich data visualization -  add real-time model scoring (Churn Score) to dashboard.
-
-==== Objective
-
-In this exercise we will implement an end-to-end machine learning workflow using Cloudera Machine Learning, including: 
-
-. Data ingest 
-. Data exploration 
-. Model training and experimentation
-. Model serving 
-. Business applications and 
-. MLOps - model operations 
+. Enrich data visualization -  Use deployed ML model to add real-time model scoring(Churn Score) to dashboard.
 
 === Business Use Case
 
