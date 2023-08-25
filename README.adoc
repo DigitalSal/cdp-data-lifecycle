@@ -18,8 +18,9 @@ In this exercise, we will get telco data queued in a Kafka topic that contains c
 === Telco Customer Churn Analytics
 
 In this exercise we will implement an end-to-end machine learning workflow using Cloudera Machine Learning, including:
-. Data ingest 
-. Data exploration 
+
+. Data ingest -  Use Cloudera Data Flow(CDF) to ingest data from Kafka topic to Open Data Lakehouse.
+. Data enrichment -  Use Cloudera Data Engineering (CDE) 
 . Model training and experimentation
 . Model serving 
 . Business applications and
