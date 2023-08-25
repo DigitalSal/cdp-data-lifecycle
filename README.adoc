@@ -10,8 +10,19 @@ Version : 1.0.0 `24th April 2023` +
 ''' 
 
 == Introduction
+The purpose of this repository is to enable the easy and quick setup of the workshop. Cloudera Data Platform (CDP) has been built from the ground up to support hybrid, multi-cloud data management in support of a Data Fabric architecture. This workshop introduces CDP, with a focus on the data management capabilities that enable the Data Fabric and Data Lakehouse.
+
+== Overview
+In this exercise, we will get telco data queued in a Kafka topic that contains customer information, that we'll load into our Data Lakehouse and use it to determine if a customer is likely to churn.
 
 === Telco Customer Churn Analytics
+
+In this exercise we will implement an end-to-end machine learning workflow using Cloudera Machine Learning, including:
+. Data ingest 
+. Data exploration 
+. Model training and experimentation
+. Model serving 
+. Business applications and
 
 ==== Objective
 
