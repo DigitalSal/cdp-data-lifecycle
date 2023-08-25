@@ -22,7 +22,7 @@ In this exercise, we will get telco data queued in a Kafka topic that contains c
 
 === Telco Customer Churn Analytics
 
-In this exercise we will implement an end-to-end machine learning workflow using CDP data lakehouse and CDP data services, including:
+In this exercise we will implement an end-to-end machine learning workflow using CDP data lakehouse and CDP data services, including these high-level steps:
 
 . Data ingest -  Use Cloudera Data Flow(CDF) to ingest data from Kafka topic to Open Data Lakehouse.
 . Data enrichment -  Use Cloudera Data Engineering(CDE) to orchestrate Spark jobs to prepare the data.
