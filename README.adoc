@@ -30,10 +30,11 @@ In this exercise we will implement an end-to-end machine learning workflow using
 . Model building/serving - Use Cloudera Machine Learning(CML) to build and train an ML model to predict customer churn, then deploy trained model for real-time scoring and prediction.
 . Enrich data visualization -  Use deployed ML model to add real-time model scoring(Churn Score) to dashboard.
 
-=== Business Use Case
-
-In this Hands On Lab you will create a model to predict customer churn and present model-driven insights to your stakeholders. You will use an interpretability technique to make your otherwise “black box model” explainable in an interactive dashboard. A mathematical explanation is beyond the scope of this lab but if you are interested in learning more we recommend the https://ff06-2020.fastforwardlabs.com/[Fast Forward Labs Report on Model Interpretability]. Finally, you will use basic ML Ops techniques to productionize and monitor your model. 
-
+== Pre-requisites
+- Laptop with a supported OS (Windows 7 not supported) or MacBook.
+- A modern browser - Google Chrome (IE, Firefox, Safari not supported).
+- Wi-Fi Internet connection.
+- Git installed (optional).
 
 === Environment Setup for workshop:
 - Single ML Workspace as the primary working environment 
