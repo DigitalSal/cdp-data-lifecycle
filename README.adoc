@@ -58,6 +58,7 @@ https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/englis
 
 https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf[CDP-PC-CML.pdf]
 
-== Github Repo URL
+== CML Project - Github Repo URL
+This github repo will be used to build and deploy the telco churn ML model
 https://github.com/campossalex/TelcoChurn[]
 
