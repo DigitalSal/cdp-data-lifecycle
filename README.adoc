@@ -44,7 +44,7 @@ image::./images/CustomerChurnDiagram.png[]
 
 === Lab 1: CDF Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/lab_guides_pdf/english/CDP-PC-CDF.pdf[]
+https://github.com/DigitalSal/cdp-data-lifecycle/english/lab_guides_pdf/english/CDP-PC-CDF.pdf[]
 
 === Lab 2: CDE Lab:
 
