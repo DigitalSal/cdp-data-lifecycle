@@ -42,7 +42,7 @@ In this exercise we will implement an end-to-end machine learning workflow using
 - Use this document for all preparation
 // For 2nd day of workshops, need to recreate the ML Workspace
 
-=== Visual Guide to CML Workshop
+=== Visual Guide to Data Lifecycle Workshop
 
 image::./images/CustomerChurnDiagram.png[]
 
