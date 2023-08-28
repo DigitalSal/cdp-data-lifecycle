@@ -40,6 +40,16 @@ image::./images/TelcoChurnSolution.png[border-color: #CCCCCC]
 - Wi-Fi Internet connection.
 - Git installed (optional).
 
+=== Environment Access:
+Please connect to Lab Environment
+
+Environment URL:
+
+Username:
+Access Password:
+
+
+
 == Lab Guides
 
 === Lab 1: CDF Lab:
