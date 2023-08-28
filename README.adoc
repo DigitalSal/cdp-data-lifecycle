@@ -44,5 +44,5 @@ In this exercise we will implement an end-to-end machine learning workflow using
 
 === Visual Guide to CML Workshop
 
-image::./images/misc/pref/CustomerChurnDiagram.png[]
+image::./images/CustomerChurnDiagram.png[]
 
