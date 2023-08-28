@@ -32,7 +32,7 @@ In this exercise we will implement an end-to-end machine learning workflow using
 
 === Visual Guide to Data Lifecycle Workshop
 
-image::./images/CustomerChurnDiagram.png[border-color: #CCCCCC]
+image::./images/TelcoChurnSolution.png[border-color: #CCCCCC]
 
 == Pre-requisites
 - Laptop with a supported OS (Windows 7 not supported) or MacBook.
