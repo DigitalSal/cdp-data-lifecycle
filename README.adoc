@@ -48,15 +48,15 @@ https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/englis
 
 === Lab 2: CDE Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf[]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf[CDP-PC-CDE.pdf]
 
 === Lab 3: CDW & DataViz Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf[]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf[CDP-PC-CDW.pdf]
 
 === Lab 4: CML Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf[]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf[CDP-PC-CML.pdf]
 
 == Github Repo URL
 https://github.com/campossalex/TelcoChurn[]
