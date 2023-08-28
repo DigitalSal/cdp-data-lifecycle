@@ -66,14 +66,23 @@ https://github.com/campossalex/TelcoChurn[]
 
 === ChurnScore Expression:
 
-====
 [source,python]
 ----
 cviz_rest('{"url":"https://modelservice.ml-2bcb0d2f-17f.latam-to.yu1t-vbzg.cloudera.site/model","accessKey":"m4fjixn3hw3wicc0w02akq02m8ubxjrf","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
 ----
 
-[source,python]
+=== Bonus - Iceberg Time Travel:
+
+List table snapshosts:
+
+====
+[source,sql]
 ----
-cviz_rest('{"url":"https://modelservice.ml-2bcb0d2f-17f.latam-to.yu1t-vbzg.cloudera.site/model","accessKey":"m4fjixn3hw3wicc0w02akq02m8ubxjrf","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
+DESCRIBE HISTORY <user_id>.telco_data_curated;
+----
+
+[source,sql]
+----
+SELECT * FROM user001.telco_data_curated FOR SYSTEM_VERSION AS OF snapshotid;
 ----
 ====
