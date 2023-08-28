@@ -44,13 +44,19 @@ image::./images/CustomerChurnDiagram.png[]
 
 === Lab 1: CDF Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/english/lab_guides_pdf/english/CDP-PC-CDF.pdf[]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDF.pdf[]
 
 === Lab 2: CDE Lab:
 
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf[]
+
 === Lab 3: CDW & DataViz Lab:
 
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf[]
+
 === Lab 4: CML Lab:
+
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf[]
 
 == Github Repo URL
 https://github.com/campossalex/TelcoChurn[]
