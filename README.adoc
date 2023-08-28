@@ -36,13 +36,20 @@ In this exercise we will implement an end-to-end machine learning workflow using
 - Wi-Fi Internet connection.
 - Git installed (optional).
 
-=== Environment Setup for workshop:
-- Single ML Workspace as the primary working environment 
-- *Important!* ML Workspace contains both Model Metrics and Governance features turned on (they are off by default). 
-- Use this document for all preparation
-// For 2nd day of workshops, need to recreate the ML Workspace
-
 === Visual Guide to Data Lifecycle Workshop
 
 image::./images/CustomerChurnDiagram.png[]
+
+== Lab Guides
+
+=== Lab 1: CDF Lab:
+
+=== Lab 2: CDE Lab:
+
+=== Lab 3: CDW & DataViz Lab:
+
+=== Lab 4: CML Lab:
+
+== Github Repo URL
+https://github.com/campossalex/TelcoChurn[]
 
