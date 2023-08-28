@@ -44,30 +44,5 @@ In this exercise we will implement an end-to-end machine learning workflow using
 
 === Visual Guide to CML Workshop
 
-image::./images/misc/pref/MLlifeCycleinCML.png[]
+image::./images/misc/pref/CustomerChurnDiagram.png[]
 
-
-== Lab 1: Configure and deploy the Workshop Content as an https://docs.cloudera.com/machine-learning/cloud/applied-ml-prototypes/topics/ml-amps-overview.html[AMP] (15 min)
-
-AMPs (Applied Machine Learning Prototypes) are reference Machine Learning projects that have been built by Cloudera Fast Forward Labs to provide quickstart examples and tutorials. AMPs are deployed into the Cloudera Machine Learning (CML) experience, which is a platform you can also build your own Machine Learning use cases on.
-
-=== Prerequisites for workshop participants:
-* Go to the Workshop Environment (provided by instructor)
-* Need to have Workload password set (this will be needed for CDV part where CDW is queried)
-+
---
-** For directions to set Workload password click here https://github.com/DigitalSal/cml-workshop/blob/main/workloadpassword/setworkloadpass.adoc[Reset Workload Password]
---
-* Navigate to the Machine Learning tile from the CDP Menu 
-* Make sure you can click into the Workspace by clicking the Workspace name (provided by instructor)
-
-image::./images/lab1/lab1-1.png[]
-
-A Workspace is a cluster that runs on a kubernetes service to provide teams of data scientists a platform to develop, test, train, and ultimately deploy machine learning models. It is designed to deploy a small number of infra resources and then autoscale compute resources as needed when end users implement more workloads and use cases.
-
-- Click on *User Settings*
-- Go to Environment Variables tab and set your *WORKLOAD_PASSWORD* (provided by instructor).
-
-image::./images/lab1/lab1-2.png[]
-
-In a workspace, Projects view is the default and you’ll be presented with all public (within your organization) and your own projects, if any. In this lab we will be creating a project based on Applied ML Prototype. 
