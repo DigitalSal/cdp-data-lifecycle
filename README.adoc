@@ -62,7 +62,7 @@ https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/englis
 
 === Lab 3: CDW & DataViz Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf[CDP-PC-CDW.pdf]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/3-DataLifecycle-CDW-english.pdf[CDP-PC-CDW.pdf]
 
 === Lab 4: CML Lab:
 
