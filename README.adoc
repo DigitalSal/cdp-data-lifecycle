@@ -58,7 +58,7 @@ https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/englis
 
 === Lab 2: CDE Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf[CDP-PC-CDE.pdf]
+https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/2-DataLifecycle-CDE-english.pdf[CDP-PC-CDE.pdf]
 
 === Lab 3: CDW & DataViz Lab:
 
