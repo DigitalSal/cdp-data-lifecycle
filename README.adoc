@@ -66,20 +66,8 @@ https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/englis
 
 === Lab 4: CML Lab:
 
-https://github.com/DigitalSal/cdp-data-lifecycle/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf[CDP-PC-CML.pdf]
+https://github.com/DigitalSal/cml-workshop[CDP-PC-CML]
 
-== CML Project - Github Repo URL
-This github repo will be used to build and deploy the telco churn ML model: 
-https://github.com/campossalex/TelcoChurn[]
-
-== Configurations:
-
-=== ChurnScore Expression:
-
-[source,python]
-----
-cviz_rest('{"url":"https://modelservice.ml-2bcb0d2f-17f.latam-to.yu1t-vbzg.cloudera.site/model","accessKey":"m4fjixn3hw3wicc0w02akq02m8ubxjrf","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
-----
 
 === Bonus - Iceberg Time Travel:
 
